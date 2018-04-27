@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/romeroalmeida/rA7-front-base.git"
   },
   "author": "Romero Almeida / @romeroalmeida7",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/romeroalmeida/rA7-front-base.git"
   },
   "homepage": "",
   "devDependencies": {
