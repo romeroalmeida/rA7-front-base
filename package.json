@@ -1,5 +1,5 @@
 {
-  "name": "rA7 Front-base",
+  "name": "frontend-project-boilerplate",
   "version": "1.0.0",
   "description": "clone the repo",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/romeroalmeida/rA7-front-base.git"
+    "url": "git+https://github.com/romeroalmeida/rA7-front-base.git"
   },
   "author": "Romero Almeida / @romeroalmeida7",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/romeroalmeida/rA7-front-base.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/romeroalmeida/rA7-front-base.git",
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "eslint": "^4.6.1",
