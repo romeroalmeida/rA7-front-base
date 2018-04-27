@@ -16,8 +16,8 @@ var autoprefixerOptions = {
   browsers: ['last 2 versions', '> 5%', 'Firefox ESR']
 };
 
-var input = './resources/scss/**/*.scss';
-var output = './resources/css';
+var input = './scss/**/*.scss';
+var output = './css';
 
 var sassOptions = {
   errLogToConsole: true,
@@ -35,7 +35,7 @@ gulp.task('sass', function () {
 });
 
 gulp.task('watch', ['browser-sync'], function () {
-    gulp.watch("./resources/scss/**/*.scss", ['sass']);
+    gulp.watch("./scss/**/*.scss", ['sass']);
     gulp.watch("*.html").on('change', bs.reload);
-    gulp.watch("./resources/js/*.js").on('change', bs.reload);
+    gulp.watch("./js/*.js").on('change', bs.reload);
 });

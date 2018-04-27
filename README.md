@@ -2,9 +2,9 @@
 
 ### Lightweight project template to quickly start developing front-end sites.
 
-[![SCSS](resources/img/scss-logo.png)](sass-lang.com/)
-[![Gulp](resources/img/gulp-logo.png)](https://gulpjs.com/)
-[![ESlint](resources/img/eslint-logo.png)](https://eslint.org/)
+[![SCSS](img/scss-logo.png)](sass-lang.com/)
+[![Gulp](img/gulp-logo.png)](https://gulpjs.com/)
+[![ESlint](img/eslint-logo.png)](https://eslint.org/)
 
 ## How to use
 
